@@ -6,7 +6,7 @@
 #### Make yourself comfortable to interact with me! 😊
 
 <div>
-  <a href="https://github.com/zezineustaquio">
+  <a href="https://github.com/nicole-uchoa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicole-uchoa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicole-uchoa&layout=compact&langs_count=7&theme=dark"/>
 </div>
